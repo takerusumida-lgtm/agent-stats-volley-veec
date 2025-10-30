@@ -3,14 +3,16 @@ from datetime import datetime
 
 # --- DONNÉES PRÉ-DÉFINIES (MODIFIEZ CECI POUR VOTRE ÉQUIPE) ---
 LISTE_JOUEURS_PREDEFINIE = [
-    {"numero": 1, "nom": "N. Le Passeur"},
-    {"numero": 4, "nom": "D. Le Pointu"},
-    {"numero": 6, "nom": "M. Le Central"},
-    {"numero": 8, "nom": "A. Le Libero"},
-    {"numero": 10, "nom": "C. Le Réceptionneur"},
-    {"numero": 12, "nom": "E. Le Serviteur"},
-    {"numero": 14, "nom": "S. Le Remplaçant"},
-    {"numero": 16, "nom": "T. Le Jeune"},
+    {"numero": 2, "nom": "Antoine R. Le Passeur"},
+    {"numero": 3, "nom": "Andrea F. Le Réceptionneur"},
+    {"numero": 4, "nom": "Gianni Le Central"},
+    {"numero": 5, "nom": "Thibaut Le Réceptionneur"},
+    {"numero": 7, "nom": "Valérien N. Le Libéro"},
+    {"numero": 10, "nom": "Tim Le Central},
+    {"numero": 11, "nom": "Clément P. Le Pointu"},
+    {"numero": 14, "nom": "Romain C. Le Libéro"},
+    {"numero": 15, "nom": "Dorian Le Central"},
+    
 ]
 # --- Fin des données pré-définies ---
 
