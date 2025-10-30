@@ -8,7 +8,7 @@ LISTE_JOUEURS_PREDEFINIE = [
     {"numero": 4, "nom": "Gianni Le Central"},
     {"numero": 5, "nom": "Thibaut Le Réceptionneur"},
     {"numero": 7, "nom": "Valérien N. Le Libéro"},
-    {"numero": 10, "nom": "Tim Le Central},
+    {"numero": 10, "nom": "Tim Le Central"},
     {"numero": 11, "nom": "Clément P. Le Pointu"},
     {"numero": 14, "nom": "Romain C. Le Libéro"},
     {"numero": 15, "nom": "Dorian Le Central"},
